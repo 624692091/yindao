@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "jiangnanti";
+    src: url("jiangnanti.eot"); /* IE9 */
+    src: url("jiangnanti.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("jiangnanti.woff") format("woff"), /* chrome、firefox */
+    url("jiangnanti.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("jiangnanti.svg#jiangnanti") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
