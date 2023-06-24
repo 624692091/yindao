@@ -105,7 +105,7 @@ $(function () {
         const xf_site = {
             siteInfo: [
                 { name: '睡神主页', links: 'JavaScript:;', pic: 'assets/upload/blog_picture.jpg' },
-                { name: '睡神导航网', links: 'JavaScript:;', pic: 'assets/upload/music_picture.jpg' },
+                { name: '丸安导航网', links: 'JavaScript:;', pic: 'assets/upload/music_picture.jpg' },
             ]
         }
 
