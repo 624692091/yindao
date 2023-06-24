@@ -113,7 +113,7 @@ $(function () {
         const xf_friend = {
             friendInfo: [
                 { qq: '3528767669', links: 'JavaScript:;', name: '睡神', sig: 'Hello World' },
-                { qq: '123456', links: 'JavaScript:;', name: 'test', sig: '拟态5.0赞助商' },
+                { qq: '624692091', links: 'JavaScript:;', name: '丸安', sig: '拟态5.0赞助商' },
             ]
         }
 
