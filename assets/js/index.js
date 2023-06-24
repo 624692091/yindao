@@ -104,8 +104,8 @@ $(function () {
         // 旗下站点
         const xf_site = {
             siteInfo: [
-                { name: '小枫网络', links: 'JavaScript:;', pic: 'assets/upload/blog_picture.jpg' },
-                { name: '小枫音乐播放器', links: 'JavaScript:;', pic: 'assets/upload/music_picture.jpg' },
+                { name: '睡神主页', links: 'JavaScript:;', pic: 'assets/upload/blog_picture.jpg' },
+                { name: '睡神导航网', links: 'JavaScript:;', pic: 'assets/upload/music_picture.jpg' },
             ]
         }
 
