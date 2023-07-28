@@ -112,7 +112,7 @@ $(function () {
         // 友联链接
         const xf_friend = {
             friendInfo: [
-                { qq: '3528767669', links: 'JavaScript:;', name: '睡神', sig: 'Hello World' },
+                { qq: '3528767669', links: 'JavaScript:;', name: '我绝对自信', sig: 'Hello World' },
                 { qq: '624692091', links: 'JavaScript:;', name: '丸安', sig: '拟态5.0赞助商' },
             ]
         }
