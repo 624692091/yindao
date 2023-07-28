@@ -106,6 +106,7 @@ $(function () {
             siteInfo: [
                 { name: '如愿主页', links: 'https://www.0ix.cc/', pic: 'assets/upload/blog_picture.jpg' },
                 { name: '丸安导航网', links: 'https://web.0ix.cc/', pic: 'assets/upload/music_picture.jpg' },
+                { name: '小工具集合', links: 'https://www.0ix.cc/jm/index.html', pic: 'assets/upload/tools_picture.jpg' },
             ]
         }
 
