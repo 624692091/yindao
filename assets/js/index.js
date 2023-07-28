@@ -104,8 +104,8 @@ $(function () {
         // 旗下站点
         const xf_site = {
             siteInfo: [
-                { name: '睡神主页', links: 'JavaScript:;', pic: 'assets/upload/blog_picture.jpg' },
-                { name: '丸安导航网', links: 'JavaScript:;', pic: 'assets/upload/music_picture.jpg' },
+                { name: '睡神主页', links: 'https://www.0ix.cc/:;', pic: 'assets/upload/blog_picture.jpg' },
+                { name: '丸安导航网', links: 'https://web.0ix.cc/:;', pic: 'assets/upload/music_picture.jpg' },
             ]
         }
 
