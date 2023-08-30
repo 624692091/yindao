@@ -132,7 +132,7 @@ $(function () {
     (function () {       
         var pasttimeevents = $('.sidebar .pasttime span'),
         // 设置发布时间
-            old_time = new Date(2022, 0, 16),
+            old_time = new Date(2023, 6, 1),
             new_time,         
             day, 
             leave_day, 
